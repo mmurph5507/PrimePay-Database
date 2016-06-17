@@ -32,19 +32,19 @@ to its original state.
 
      -~-   KNOWN ISSUES   -~-
 
-  -   The program throws a 'concurrency violation' when the user attempts to delete a record
-         immediately after adding it. To delete it, the entire program must be restarted to allow
-         the new data to be accepted into the table. There is a known cause for this: Visual Studio
-         by default does not immediately retrieve the identity value for the row immediately after
-         adding it, and the table's autoincrement function must be altered to solve the issue.
-         However, an adequate solution has not been reached as of yet.
+The program throws a 'concurrency violation' when the user attempts to delete a record
+     immediately after adding it. To delete it, the entire program must be restarted to allow
+     the new data to be accepted into the table. There is a known cause for this: Visual Studio
+     by default does not immediately retrieve the identity value for the row immediately after
+     adding it, and the table's autoincrement function must be altered to solve the issue.
+     However, an adequate solution has not been reached as of yet.
 
 
 
      -~-   PLANNED IMPLEMENTATIONS   -~-
 
-  -   The project does not currently completely utilize the 'tbl_pay' table. The table exists, and
-         it is constrained to the 'tbl_info' table which is utilized by the project. The planned
-         function to be implemented is to allow the user to view all of the payments made to a
-         specific employee; when the user scrolls to another employee, the GUI will display all of
-         the relevant payments made to that employee.
+The project does not currently completely utilize the 'tbl_pay' table. The table exists, and
+     it is constrained to the 'tbl_info' table which is utilized by the project. The planned
+     function to be implemented is to allow the user to view all of the payments made to a
+     specific employee; when the user scrolls to another employee, the GUI will display all of
+     the relevant payments made to that employee.

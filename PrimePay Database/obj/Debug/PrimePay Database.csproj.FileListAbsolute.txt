@@ -1,0 +1,11 @@
+c:\users\matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\bin\Debug\PrimePay Database.exe.config
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\bin\Debug\Employees.mdf
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\bin\Debug\Employees_log.ldf
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\bin\Debug\PrimePay Database.exe
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\bin\Debug\PrimePay Database.pdb
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\obj\Debug\PrimePay Database.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\obj\Debug\PrimePay_Database.frmPrimePay.resources
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\obj\Debug\PrimePay_Database.Properties.Resources.resources
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\obj\Debug\PrimePay Database.csproj.GenerateResource.Cache
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\obj\Debug\PrimePay Database.exe
+C:\Users\Matt\documents\visual studio 2015\Projects\PrimePay Database\PrimePay Database\obj\Debug\PrimePay Database.pdb
